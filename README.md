@@ -1,4 +1,4 @@
-<!--   
+
 <h2 align="left">About me</h2> 
   <div style="display: flex; align-items: center;">
   <span"> 
@@ -7,8 +7,9 @@
     🚀 Goals: To create my own prototype game engine in available time<br>
     🕹️ Fun fact: People around me play the games I make better than I do
   </span>
-  <img src="https://media3.giphy.com/media/gYWeVOiMmbg3kzCTq5/giphy.gif?cid=6c09b9522cs2jkqd0pro116jtz15tdmbg3kzCTq5mtgjqp3kzCTq5&ct=g" alt="Pacman gif" style="margin-left: 90px height="70" width="70">
 </div>
+
+<img align="right" alt="pacman-gif" src="https://media3.giphy.com/media/gYWeVOiMmbg3kzCTq5/giphy.gif?cid=6c09b9b322jkqd116jtz15mtgjqp3kzctg" class="my-pacman-gif" width="200px">
 
 
 
@@ -27,13 +28,12 @@
 <h2 align="left">Connect with Me</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" style="text-decoration: none; color: inherit;"> 
+  <a href="https://tr.linkedin.com/in/muhammed-hasan-gecit-78176b237?trk=public_post_feed-actor-name" style="text-decoration: none; color: inherit;"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com" style="text-decoration: none;">
+  <a href="mailto:mhasangecit@gmail.com" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
 
--->
