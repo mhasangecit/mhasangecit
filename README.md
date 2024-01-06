@@ -1,5 +1,5 @@
 
-<h2 align="left">About me</h2> 
+## About me
   <div style="display: flex; align-items: center;">
   <span"> 
     🎮 Independent Game Developer, creates virtual worlds and hunts bugs <br>
@@ -11,10 +11,7 @@
 
 <img align="right" alt="pacman-gif" src="https://media3.giphy.com/media/gYWeVOiMmbg3kzCTq5/giphy.gif?cid=6c09b9b322jkqd116jtz15mtgjqp3kzctg" class="my-pacman-gif" width="200px">
 
-
-
-
-<h2 align="left">Current Tech Stack</h2>
+## Current Tech Stack
 
 <div align="left">
   <img width="12" />
@@ -25,7 +22,7 @@
   <img width="12" />
 </div>
 
-<h2 align="left">Connect with Me</h2>
+## Connect with Me
 
 <div align="left">
   <a href="https://tr.linkedin.com/in/muhammed-hasan-gecit-78176b237?trk=public_post_feed-actor-name" style="text-decoration: none; color: inherit;"> 
